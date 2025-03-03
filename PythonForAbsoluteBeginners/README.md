@@ -1,6 +1,6 @@
 # Python_for_Absolute_Beginners_Session
 
-This repository contains recordings and resources from the **Python for Absolute Beginners** session at [iCodeGuru](https://icodeguru.com). This **4-week interactive training** covered essential Python concepts, helping learners build a strong foundation in programming.  
+This repository contains recordings and resources from the **Python for Absolute Beginners** session at [iCodeGuru](https://icode.guru/). This **4-week interactive training** covered essential Python concepts, helping learners build a strong foundation in programming.  
 
 Co-Trainers: **Mariam**  
 Moderators: **Hateem Hussain & Atif**  
