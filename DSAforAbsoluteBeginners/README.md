@@ -1,4 +1,4 @@
-DSA_for_Absolute_Beginners_Session
+<img width="454" height="702" alt="image" src="https://github.com/user-attachments/assets/4a0f2e41-44d3-432e-a0b9-f733cdfc8057" />DSA_for_Absolute_Beginners_Session
 This repository contains recordings and resources from the Data Structures & Algorithms (DSA) for Absolute Beginners session at iCodeGuru. This 4-week interactive training focused on core DSA concepts, enabling learners to develop strong logic-building and problem-solving skills essential for programming and technical interviews.
 
 👨‍🏫 Co-Trainers:
@@ -32,15 +32,13 @@ Special thanks to the learners who made the sessions more engaging and enjoyable
 
 Week 1
 
-Day 1: [Recording Link]
+Day 1: [[Recording Link](https://www.facebook.com/share/v/15sZz8WXRG/)]
 
-Day 2: [Recording Link]
+Day 2: [[Recording Link](https://www.facebook.com/share/v/1DaNWa71x5/)]
 
-Day 3: [Recording Link]
+Day 3: [[Recording Link](https://www.facebook.com/share/v/16TAJaGUPH/)]
 
-Day 4: [Recording Link]
-
-Day 5: [Recording Link]
+Day 4: Holiday
 
 Week 2
 
