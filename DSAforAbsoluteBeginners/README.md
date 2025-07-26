@@ -1,5 +1,5 @@
-<img width="454" height="702" alt="image" src="https://github.com/user-attachments/assets/4a0f2e41-44d3-432e-a0b9-f733cdfc8057" />DSA_for_Absolute_Beginners_Session
-This repository contains recordings and resources from the Data Structures & Algorithms (DSA) for Absolute Beginners session at iCodeGuru. This 4-week interactive training focused on core DSA concepts, enabling learners to develop strong logic-building and problem-solving skills essential for programming and technical interviews.
+DSA_for_Absolute_Beginners_Session
+This repository contains recordings and resources from the Data Structures & Algorithms (DSA) for Absolute Beginners session at iCodeGuru. This 6-week interactive training focused on core DSA concepts, enabling learners to develop strong logic-building and problem-solving skills essential for programming and technical interviews.
 
 👨‍🏫 Co-Trainers:
 Mariam Ashraf
