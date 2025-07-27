@@ -42,15 +42,14 @@ Day 4: Holiday
 
 Week 2
 
-Day 1: [Recording Link]
+Day 1: [[Recording Link](https://www.facebook.com/share/v/16eA3bCZJp/)] Mariam Ashraf
 
-Day 2: [Recording Link]
+Day 2: [[Recording Link](https://www.facebook.com/share/v/19EUtTomw9/)] Mariam Ashraf
 
-Day 3: [Recording Link]
+Day 3: [[Recording Link](https://www.facebook.com/share/v/19LYqoK6gx/)] M Azeem
 
-Day 4: [Recording Link]
+Day 4: [[Recording Link](https://www.facebook.com/share/v/1F1so86Xua/)]
 
-Day 5: [Recording Link]
 
 Week 3
 
