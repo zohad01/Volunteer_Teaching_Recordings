@@ -117,7 +117,7 @@ Day 2: [[Recording Link](https://www.facebook.com/share/v/1C5Qyo4R18/)] Me
 
 Day 3: [[Recording Link](https://www.facebook.com/share/v/16hgHCDfmJ/)] Presenter
 
-Day 4: [[Recording Link]()] Me
+Day 4: [[Recording Link](https://www.facebook.com/share/v/1685E3rxSK/)] Me
 
 🚀 Looking Ahead
 This DSA session was an incredible learning experience! Looking forward to many more sessions and opportunities to grow together.
