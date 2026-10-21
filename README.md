@@ -43,4 +43,5 @@ Sharing expertise on [iCodeGuru](https://icode.guru/) with a LeetCode focus, aid
 
 ## Webinars
 -**UC_Bereley Coding Competition** [[Recording Link](https://drive.google.com/file/d/19l7WiJAyiofEgfNt4nxEpIvderi_oDk4/view?usp=sharing)]
--**Stanford CIPX and PAI** [[Recording Link]([https://drive.google.com/file/d/19l7WiJAyiofEgfNt4nxEpIvderi_oDk4/view?usp=sharing](https://drive.google.com/file/d/1-5XPn2w1GFMmIxxiN28eGaBd8zA8bYJU/view?usp=sharing))]
+
+-**Stanford CIPX and PAI** [[Recording Link](https://drive.google.com/file/d/19l7WiJAyiofEgfNt4nxEpIvderi_oDk4/view?usp=sharing](https://drive.google.com/file/d/1-5XPn2w1GFMmIxxiN28eGaBd8zA8bYJU/view?usp=sharing))]
